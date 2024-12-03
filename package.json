@@ -24,7 +24,7 @@
     "@types/sinon": "^7.0.5",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "mocha": "^5.2.0",
+    "mocha": "^10.1.0",
     "mocha-junit-reporter": "^1.18.0",
     "nyc": "^13.3.0",
     "sinon": "^7.2.4",
